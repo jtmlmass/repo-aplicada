@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Introduccion_C_Sharp/1.0.0": {
+        "runtime": {
+          "Introduccion_C_Sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Introduccion_C_Sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

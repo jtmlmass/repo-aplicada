@@ -1,0 +1,13 @@
+C:\Users\joset\source\repos\Ejercicios de Introducción a C sharp\Ejercicios de Introducción a C sharp\bin\Debug\netcoreapp3.1\Introduccion_C_Sharp.exe
+C:\Users\joset\source\repos\Ejercicios de Introducción a C sharp\Ejercicios de Introducción a C sharp\bin\Debug\netcoreapp3.1\Introduccion_C_Sharp.deps.json
+C:\Users\joset\source\repos\Ejercicios de Introducción a C sharp\Ejercicios de Introducción a C sharp\bin\Debug\netcoreapp3.1\Introduccion_C_Sharp.runtimeconfig.json
+C:\Users\joset\source\repos\Ejercicios de Introducción a C sharp\Ejercicios de Introducción a C sharp\bin\Debug\netcoreapp3.1\Introduccion_C_Sharp.runtimeconfig.dev.json
+C:\Users\joset\source\repos\Ejercicios de Introducción a C sharp\Ejercicios de Introducción a C sharp\bin\Debug\netcoreapp3.1\Introduccion_C_Sharp.dll
+C:\Users\joset\source\repos\Ejercicios de Introducción a C sharp\Ejercicios de Introducción a C sharp\bin\Debug\netcoreapp3.1\Introduccion_C_Sharp.pdb
+C:\Users\joset\source\repos\Ejercicios de Introducción a C sharp\Ejercicios de Introducción a C sharp\obj\Debug\netcoreapp3.1\Introduccion_C_Sharp.csprojAssemblyReference.cache
+C:\Users\joset\source\repos\Ejercicios de Introducción a C sharp\Ejercicios de Introducción a C sharp\obj\Debug\netcoreapp3.1\Introduccion_C_Sharp.AssemblyInfoInputs.cache
+C:\Users\joset\source\repos\Ejercicios de Introducción a C sharp\Ejercicios de Introducción a C sharp\obj\Debug\netcoreapp3.1\Introduccion_C_Sharp.AssemblyInfo.cs
+C:\Users\joset\source\repos\Ejercicios de Introducción a C sharp\Ejercicios de Introducción a C sharp\obj\Debug\netcoreapp3.1\Introduccion_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\joset\source\repos\Ejercicios de Introducción a C sharp\Ejercicios de Introducción a C sharp\obj\Debug\netcoreapp3.1\Introduccion_C_Sharp.dll
+C:\Users\joset\source\repos\Ejercicios de Introducción a C sharp\Ejercicios de Introducción a C sharp\obj\Debug\netcoreapp3.1\Introduccion_C_Sharp.pdb
+C:\Users\joset\source\repos\Ejercicios de Introducción a C sharp\Ejercicios de Introducción a C sharp\obj\Debug\netcoreapp3.1\Introduccion_C_Sharp.genruntimeconfig.cache
