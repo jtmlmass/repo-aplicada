@@ -1,0 +1,13 @@
+C:\Users\joset\source\repos\EjercicioHilosMultiples\EjercicioHilosMultiples\bin\Debug\netcoreapp3.1\EjercicioHilosMultiples.exe
+C:\Users\joset\source\repos\EjercicioHilosMultiples\EjercicioHilosMultiples\bin\Debug\netcoreapp3.1\EjercicioHilosMultiples.deps.json
+C:\Users\joset\source\repos\EjercicioHilosMultiples\EjercicioHilosMultiples\bin\Debug\netcoreapp3.1\EjercicioHilosMultiples.runtimeconfig.json
+C:\Users\joset\source\repos\EjercicioHilosMultiples\EjercicioHilosMultiples\bin\Debug\netcoreapp3.1\EjercicioHilosMultiples.runtimeconfig.dev.json
+C:\Users\joset\source\repos\EjercicioHilosMultiples\EjercicioHilosMultiples\bin\Debug\netcoreapp3.1\EjercicioHilosMultiples.dll
+C:\Users\joset\source\repos\EjercicioHilosMultiples\EjercicioHilosMultiples\bin\Debug\netcoreapp3.1\EjercicioHilosMultiples.pdb
+C:\Users\joset\source\repos\EjercicioHilosMultiples\EjercicioHilosMultiples\obj\Debug\netcoreapp3.1\EjercicioHilosMultiples.csprojAssemblyReference.cache
+C:\Users\joset\source\repos\EjercicioHilosMultiples\EjercicioHilosMultiples\obj\Debug\netcoreapp3.1\EjercicioHilosMultiples.AssemblyInfoInputs.cache
+C:\Users\joset\source\repos\EjercicioHilosMultiples\EjercicioHilosMultiples\obj\Debug\netcoreapp3.1\EjercicioHilosMultiples.AssemblyInfo.cs
+C:\Users\joset\source\repos\EjercicioHilosMultiples\EjercicioHilosMultiples\obj\Debug\netcoreapp3.1\EjercicioHilosMultiples.csproj.CoreCompileInputs.cache
+C:\Users\joset\source\repos\EjercicioHilosMultiples\EjercicioHilosMultiples\obj\Debug\netcoreapp3.1\EjercicioHilosMultiples.dll
+C:\Users\joset\source\repos\EjercicioHilosMultiples\EjercicioHilosMultiples\obj\Debug\netcoreapp3.1\EjercicioHilosMultiples.pdb
+C:\Users\joset\source\repos\EjercicioHilosMultiples\EjercicioHilosMultiples\obj\Debug\netcoreapp3.1\EjercicioHilosMultiples.genruntimeconfig.cache
